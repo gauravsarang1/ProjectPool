@@ -490,6 +490,9 @@ const Home = () => {
               “Empowering students to build, collaborate, and innovate without barriers.”
             </p>
 
+             {/*developer*/}
+            <p className="ext-sm italic text-gray-500">Made with love ❤️ By Gaurav Sarang</p>
+
           </div>
         </footer>
       </div>

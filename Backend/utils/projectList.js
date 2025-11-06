@@ -1,316 +1,304 @@
 // projectList.js
 module.exports = [
+  
   {
     "id": 1,
-    "title": "Intelligent Resource Allocation in Cloud using Machine Learning",
-    "description": "This project aims to develop a smart resource allocation model for cloud environments using machine learning algorithms like Random Forest or XG Boost. The system will predict resource requirements (CPU, memory, bandwidth) based on workload patterns and dynamically allocate them to minimize latency and maximize utilization. The goal is to improve scalability, reduce cost, and avoid resource underutilization or overprovisioning."
+    "title": "Hotel Management System",
+    "description": "Imagine you own a cozy little hotel, or even a big fancy one! This web app makes running it a breeze. Hotel owners can easily keep track of all their rooms, set prices for different seasons, and manage who's booked what. Guests looking for a place to stay can hop online, search for hotels, see which rooms are free, and book their perfect getaway with just a few clicks. For the folks in charge, there's a special view to see every single reservation, check people in smoothly, and even handle cancellations without any fuss. It’s like having a super-organized assistant for your entire hotel business."
   },
   {
     "id": 2,
-    "title": "Fruit and vegetable sorting and freshness detection using Deep Learning Models",
-    "description": "Vegetable and fruit freshness detecting can ensure that consumers get vegetables and fruits with good taste and rich nutrition, improve the health level of diet, and ensure that the agricultural and food industries provide high-quality products to meet consumer needs and increase sales and market share. At present, the freshness detection of vegetables and fruits mainly relies on manual observation and judgment, which has the problems of subjectivity and low accuracy, and it is difficult to meet the needs of large-scale, high-efficiency, and rapid detection. To solve this problem, this project will develop a novel method for detecting the freshness of vegetables and fruits more objectively, accurately and efficiently using deep features extracted by pre-trained deep learning models of different architectures."
+    "title": "Restaurant Table Reservation App",
+    "description": "Tired of busy signals or waiting in line at your favorite restaurant? This app is here to save the day! Customers can easily check out all the available time slots for tables at their desired restaurant and book one online instantly. No more guessing or hoping! On the flip side, restaurant staff get a clear overview of all incoming reservations. They can quickly confirm or, if needed, cancel bookings. Plus, it’s super helpful for them to track which tables are being used and when, making sure their dining room runs like a well-oiled machine. It’s a win-win for both diners and restaurant owners."
   },
   {
     "id": 3,
-    "title": "Mobile attendance system",
-    "description": "This android app runs on android phones. It’s built to be used for school/college faculty so that they may take student attendance on their phones."
+    "title": "Food Delivery Platform",
+    "description": "Craving your favorite dish but don't want to leave the house? This platform brings the restaurant to you! It's a clever system that connects three key players: hungry customers, amazing restaurants, and efficient delivery partners. Users can browse through endless menus from local eateries, easily order their food, pay securely online, and the best part? They can track their order live on a map, watching it make its way right to their door. It’s all about convenience, bringing delicious meals to your fingertips, and making sure everyone involved has a smooth experience from order to delivery."
   },
   {
     "id": 4,
-    "title": "Neighborhood Food Waste Exchange",
-    "description": "Connects neighbors to share surplus, edible food and reduce local food waste, while helping those in need access community resources. This platform uses geolocation and real-time listings to encourage hyperlocal, sustainable exchanges."
+    "title": "Online Appointment Booking System",
+    "description": "Forget playing phone tag or waiting on hold to book an appointment! This app is your go-to for scheduling time with all sorts of professionals, whether it's your doctor, a trendy salon, or even a private tutor. Users can browse available slots and book an appointment that fits their schedule. For the professionals, it’s a lifesaver: they can easily manage their calendars, accept or decline bookings, and even send out helpful reminders so no one misses their slot. It streamlines the whole process, making life easier for both clients and service providers, ensuring everyone is on time and organized."
   },
   {
     "id": 5,
-    "title": "An AI-Enabled IoT Framework for Continuous Cardiac Monitoring with Sudden Cardiac Arrest Detection and Real-Time Emergency Alerts.",
-    "description": "To design and implement a real-time IoT platform that monitors ECG and other vital signs to detect abnormalities (like arrhythmias or cardiac arrest), and sends instant alerts to caregivers or emergency services."
+    "title": "E-Commerce Store",
+    "description": "Ever dreamed of having your own online shop? This E-commerce Store provides everything you need to sell products on the internet. It comes packed with features like beautiful product listings, where you can showcase all your items with details and photos. Customers can easily add things to their shopping cart and go through a secure checkout process, giving them peace of mind. For you, the shop owner, there's a powerful admin dashboard. From there, you can effortlessly manage your inventory, keep track of all incoming orders, and handle payments smoothly. It’s a complete solution to get your business thriving online!"
   },
   {
     "id": 6,
-    "title": "Skin Cancer Detection Using Convolutional Neural Networks",
-    "description": "Skin cancer is one of the most common forms of cancer globally. Early detection can significantly improve treatment success rates. This project aims to build an automated system that uses Convolutional Neural Networks (CNN) to classify dermoscopic images of skin lesions into benign or malignant categories. The system leverages deep learning to assist dermatologists by reducing diagnosis time and increasing accuracy."
+    "title": "Social Media App",
+    "description": "Ever wanted to build your own online community, much like Instagram or Twitter? This social media app lets users create their own profiles and share what's on their mind by posting updates, photos, or videos. They can easily connect with friends by following them, and stay in touch through direct chats. Of course, the fun part is engaging with content – users can like posts, leave comments, and share their thoughts with their network. It's designed to be a vibrant space for connection, sharing, and interaction, bringing people together in a dynamic online environment, just like the big social platforms you already know and love."
   },
   {
     "id": 7,
-    "title": "Intelligent Classroom Audio Recorder with Automated Lecture Summarization",
-    "description": "This project explores the development of an intelligent classroom audio recording system combined with automated lecture summarization techniques. The project focuses on evaluating and comparing different speech-to-text models and text summarization algorithms to generate concise and accurate summaries of classroom lectures. The study analyzes the impact of summarization methods on information retention and accessibility for students, especially those who miss classes. Experimental evaluation involves accuracy metrics for speech recognition and summary quality assessments, providing insights into the effectiveness of multimodal audio-text processing in educational contexts."
+    "title": "Job Portal Website",
+    "description": "Looking for your dream job, or trying to find the perfect candidate for your team? This Job Portal Website makes the whole process simpler. Employers can easily post their job openings, attracting a wide pool of talent, and then efficiently review all the applications that come in. For job seekers, it's a fantastic resource! They can create detailed profiles, upload their resumes, and apply directly to jobs that match their skills and aspirations with just a few clicks. It’s a comprehensive platform designed to connect talented individuals with great opportunities, making the job search and hiring process smoother for everyone involved."
   },
   {
     "id": 8,
-    "title": "AI-powered Fault Diagnosis System",
-    "description": "Use machine learning to detect faults in mechanical systems or industrial sensors."
+    "title": "Learning Management System (LMS)",
+    "description": "Learning new things has never been easier with this Learning Management System! It's a fantastic platform for both educators and students. Teachers can easily upload their video lessons, create engaging quizzes, and organize course materials for their students. Students, on the other hand, can enroll in courses that interest them, track their progress as they go, and complete assignments online. For the administrators, there’s a dedicated space to manage all users, oversee course content, and pull up reports to see how everything is running. It's a complete virtual classroom designed to make online education effective and enjoyable for everyone."
   },
   {
     "id": 9,
-    "title": "IoT Chatbot for Device Control and Fault Diagnosis",
-    "description": "A chatbot integrated with IoT devices to manage smart appliances and provide self-diagnosis of issues."
+    "title": "Real Estate Listing Platform",
+    "description": "Dreaming of a new home or looking to sell your current property? This Real Estate Listing Platform makes it simple to navigate the housing market. Users can effortlessly search and filter through a wide range of properties, whether they're looking to buy a house or rent an apartment. Agents get a dedicated space to post their listings, upload beautiful photos, and add all the important details about each property. Plus, there's a built-in chat function, allowing agents to connect directly with interested buyers or renters. It's a comprehensive tool designed to bring buyers, renters, and agents together efficiently."
   },
   {
     "id": 10,
-    "title": "AssignMatch: Intelligent Matching of Student Submissions",
-    "description": "Here we will explore the application of Natural Language Processing to address a common academic concern: identifying similarities and potential duplicacy in assignment solutions submitted by students. With the increasing adoption of digital submission platforms, it has become easier for students to share content—intentionally or unintentionally—resulting in overlapping or duplicate submissions. This poses challenges for instructors in ensuring academic integrity and fair evaluation. While traditional plagiarism detection tools rely on surface-level string matching, they often fail to detect paraphrased or semantically similar content. By representing text semantically using models such as BERT, TF-IDF, and Word2Vec, we can analyze underlying meaning rather than just surface similarity."
+    "title": "Event Booking System",
+    "description": "Never miss out on your favorite events again with this handy Event Booking System! Whether you're looking for an exciting concert, an informative workshop, or a fun local gathering, this app helps you discover and book tickets easily. Organizers, on the other hand, have a powerful tool to create their events, manage seating arrangements, and keep a close eye on ticket sales in real-time. It takes the stress out of event planning and attending, making sure everyone has a smooth experience from finding an event to enjoying it. It's the perfect solution for bringing people and experiences together!"
   },
   {
     "id": 11,
-    "title": "Smart Crop Disease Detection using AI and Machine Learning",
-    "description": "To develop an AI-powered model capable of detecting plant diseases from leaf images using machine learning and deep learning techniques to assist farmers in early diagnosis and treatment."
+    "title": "Vehicle Rental Service",
+    "description": "Need a ride for a day trip or a longer adventure? This Vehicle Rental Service makes renting a car or bike super convenient. Users can browse through various models, select their desired dates, and book their preferred vehicle online with ease. For vehicle owners, this system is a great way to manage their fleet. They can effortlessly track all bookings, handle payments smoothly, and keep an eye on the availability of each vehicle. It’s a comprehensive platform designed to connect renters with available vehicles, ensuring a seamless and efficient rental experience for everyone involved."
   },
   {
     "id": 12,
-    "title": "Fake News Detection System using Machine Learning",
-    "description": "The Fake News Detection System is a machine learning-based project designed to identify and classify news articles as real or fake. With the rise of digital media, fake news has become a major concern, influencing public opinion and spreading misinformation. This system aims to tackle this issue by analyzing the textual content of news articles using natural language processing (NLP) techniques and machine learning algorithms."
+    "title": "Inventory Management Dashboard",
+    "description": "Running a shop means keeping track of a lot of stuff! This Inventory Management Dashboard is like a super-smart assistant for shop owners. It helps them easily track all their products, monitor sales figures, and always know exactly what's in stock. The best part? It sends out helpful alerts when inventory levels are getting low, so you can reorder before you run out. Plus, it generates clear business reports, giving you valuable insights into your sales performance and stock movement. It’s designed to take the guesswork out of managing your inventory and keep your business running smoothly."
   },
   {
     "id": 13,
-    "title": "Detect basic emotions like calm, stress, excitement using EEG data.",
-    "description": "Concepts Used:- EEG signal preprocessing, feature extraction (alpha/beta waves), machine learning classification. Outcome: A real-time dashboard that shows the user’s emotional state."
+    "title": "Recipe and Meal Planner",
+    "description": "Tired of asking 'What's for dinner?' every night? This Recipe and Meal Planner app is your new kitchen companion! You can explore a vast collection of recipes, save your absolute favorites, and even generate a smart grocery list based on the meals you've picked for the week. No more forgotten ingredients or last-minute store runs! Plus, it often includes helpful nutrition and calorie details, so you can make informed choices about what you're eating. It's designed to make meal planning fun, efficient, and healthy, taking the stress out of daily cooking."
   },
   {
     "id": 14,
-    "title": "AI-Powered Disease Prediction System using machine learning",
-    "description": "In the modern healthcare domain, early diagnosis is crucial for effective treatment and cost reduction. This project presents an intelligent disease prediction system using machine learning techniques. The system analyzes patient data such as age, gender, symptoms, and medical history to predict the likelihood of diseases like diabetes, heart disease, liver disease, and chronic kidney disorders. Models such as Random Forest, Support Vector Machine (SVM), and Logistic Regression are trained and evaluated on open-source medical datasets. The final system uses an ensemble approach to increase prediction accuracy. A web-based interface allows users to input details and receive real-time predictions along with confidence scores. The project aims to support doctors in preliminary diagnosis and improve patient awareness through data-driven insights."
+    "title": "Fitness Tracker App",
+    "description": "Ready to smash your fitness goals? This Fitness Tracker App is here to help you every step of the way! Users can easily log all their workouts, whether it's a run, a gym session, or a yoga class. The app then helps you track your progress over time, showing you how far you've come. You can set new fitness goals and watch yourself achieve them! With clear charts and statistics, you'll get a visual representation of your improvements, motivating you to stay active and healthy. It's like having a personal trainer right in your pocket, celebrating every milestone with you."
   },
   {
     "id": 15,
-    "title": "Early Detection of Chronic Kidney Disease Using Ensemble Machine Learning",
-    "description": "This project applies ensemble models (Random Forest, AdaBoost, and Gradient Boosting) to classify stages of Chronic Kidney Disease (CKD) using clinical features like GFR, creatinine, and albumin levels. The dataset is taken from UCI and validated through k-fold cross-validation. A case study on regional hospital data from North-Indian Region CKD prevalence patterns. The research demonstrates that ensemble models improve early diagnosis accuracy and support nephrology departments in timely patient intervention."
+    "title": "Personal Finance Tracker",
+    "description": "Managing your money can sometimes feel like a puzzle, but this Personal Finance Tracker makes it simple! Users can easily record all their income and expenses, giving them a clear picture of where their money is going. The app helps categorize spending, so you can see if you're spending too much on coffee or subscriptions. Plus, it generates helpful monthly reports, allowing you to review your financial health at a glance and stick to your budget without stress. It’s a powerful tool to help you understand your spending habits and take control of your financial future, making budgeting straightforward and effective."
   },
   {
     "id": 16,
-    "title": "AI-Powered Healthcare Chatbot",
-    "description": "Tech: NLP, BERT/GPT API, Flask. Objective: Develop a chatbot that can provide symptom-based preliminary diagnosis and suggest specialist consultations. Outcome: Smart triage system to reduce healthcare workload."
+    "title": "Online Quiz App",
+    "description": "Love a good challenge or want to test your knowledge? This Online Quiz App is perfect for some brain-teasing fun! Admins get to create all sorts of exciting quizzes across multiple categories, from history to pop culture. Users can then dive in, compete for high scores against others, and see their results instantly after completing a quiz. It's a fantastic way to learn, have fun, and engage in some friendly competition. Whether you're a trivia master or just looking to pass some time, this app offers an interactive and entertaining experience for everyone."
   },
   {
     "id": 17,
-    "title": "Diabetic Retinopathy Detection using Deep Learning",
-    "description": "Tech: CNN, Transfer Learning (EfficientNet/ResNet). Dataset: Kaggle Diabetic Retinopathy Dataset. Outcome: An automated system to classify retinal disease stages."
+    "title": "Blog Management System",
+    "description": "If you love to write and share your thoughts, this Blog Management System is your ideal platform! It's a complete blogging solution where users can easily write engaging posts, add compelling images, and even schedule them to be published at a later date. You can also organize your content with tags, making it easy for readers to find what they're looking for. Plus, there's a handy feature for managing comments, with admin approval, ensuring your blog remains a positive and engaging space. It’s everything you need to build and maintain a thriving online blog, making content creation and sharing a joyful experience."
   },
   {
     "id": 18,
-    "title": "AI-Based Mental Health Detection using Social Media Data",
-    "description": "This project involves analyzing social media posts (e.g., Twitter, Reddit) using NLP and sentiment analysis to detect signs of anxiety, depression, or stress. It integrates AI with psychology and ethics to provide early intervention support tools."
+    "title": "Carpooling App",
+    "description": "Daily commutes can be costly and lonely, but this Carpooling App offers a smart solution! Drivers who have extra seats can easily post their available rides, sharing their route and timing. Passengers looking for a lift can then join a ride that matches their destination, saving money and reducing traffic. The app includes handy features like payment splitting, making it fair for everyone, and a rating system so users can review each other. It’s a fantastic way to make travel more affordable, eco-friendly, and social, connecting people heading in the same direction."
   },
   {
     "id": 19,
-    "title": "Cloud-Based Smart Healthcare Monitoring System using Machine Learning",
-    "description": "This project proposes a cloud-integrated healthcare monitoring system that collects real-time patient health data via IoT devices and applies machine learning models to detect anomalies or potential health risks (e.g., arrhythmia, abnormal blood pressure). The system stores and processes data on the cloud for scalability and provides alerts to healthcare providers and patients. The focus is on early detection, remote monitoring, and efficient data management."
+    "title": "Online Auction App",
+    "description": "Love the thrill of finding a great deal or selling unique items? This Online Auction App brings the excitement of an auction right to your fingertips! Sellers can easily post items they want to sell, complete with descriptions and photos. Buyers can then jump in and place bids in real-time, watching the competition unfold. The system automatically keeps track of the highest bid, ensuring fairness, and securely handles payments once an auction concludes. It’s a dynamic platform that makes buying and selling unique items engaging, transparent, and accessible to everyone."
   },
   {
     "id": 20,
-    "title": "Prediction of Alopecia Areata using Machine Learning",
-    "description": "Alopecia Areata is a disease which is chronic in nature, it leads to drastic hair damage. This is an autoimmune disease that can have several aftermaths like brittle nails and bald spots. Its origination can be affiliated with hormonal changes and hereditary factors. There is no clinical test for its detection and the majority of diagnosis is conducted by examining the patients with the naked eye. Thus the expertise of the doctor and the patient is required. This project aims to develop a machine learning model to predict the presence of alopecia areata based on the symptoms and other factors. The model will be trained on a large dataset of patients with alopecia areata and non-alopecia areata. The model will be evaluated using cross-validation and the performance will be compared with other existing models."
+    "title": "Chat Application",
+    "description": "Stay connected with friends, family, or colleagues with this real-time Chat Application! Built using powerful technology like Socket.IO, it ensures messages are sent and received almost instantly. Users can easily join public channels to chat with groups, or send private messages for one-on-one conversations. And it's not just about text – you can also share images and files, making communication richer and more convenient. It’s a versatile and engaging platform designed to keep you connected, share moments, and make conversations fluid and enjoyable, just like your favorite messaging apps."
   },
   {
     "id": 21,
-    "title": "Navigation and obstacle detection app to assist visually impaired",
-    "description": "This android app will help visually impaired to know about the surroundings and will help navigate."
+    "title": "Subscription Box Service",
+    "description": "Who doesn't love getting a surprise package in the mail every month? This Subscription Box Service app lets users subscribe to curated monthly boxes, whether it's for delicious snacks, exciting books, or unique beauty products. For the business owners, there's a comprehensive admin area to manage everything seamlessly. They can keep track of inventory, process payments securely, and handle all the shipping details to ensure every box reaches its happy recipient. It’s a delightful way to discover new products and a streamlined system for businesses to offer recurring surprises to their customers."
   },
   {
     "id": 22,
-    "title": "Remote Healthcare Queue Management System",
-    "description": "A web/mobile solution enabling patients to join or view live clinic queues online, reducing wait times and crowding. Staff manage patient flow with real-time dashboards and patients receive notifications about their turn."
+    "title": "Document Sharing Platform",
+    "description": "Tired of endless email threads for document reviews and signatures? This Document Sharing Platform simplifies the whole process. Users can securely upload important documents, add digital signatures with ease, and share them with colleagues or clients. You can track the status of documents, so you always know who has viewed or signed what, and manage permissions to control who has access. Once everything is done, signed copies can be securely downloaded. It’s a streamlined and secure way to handle all your document workflows, making collaboration and approvals efficient and worry-free."
   },
   {
     "id": 23,
-    "title": "Design and Implementation of an IoT-Enabled System for Real-Time Monitoring of Aquatic Ecosystem Health",
-    "description": "This project focuses on developing a real-time monitoring system to assess the health of aquatic environments such as lakes, rivers, ponds, or aquaculture tanks. The system integrates multiple IoT-based environmental sensors (e.g., pH, temperature, turbidity, dissolved oxygen) to collect water quality data, which is then transmitted to a cloud platform for real-time visualization, trend analysis, and automated alerting in case of harmful conditions. The platform supports remote access via a web or mobile interface, allowing stakeholders (e.g., fisheries, environmental agencies, or researchers) to take preventive actions and ensure sustainable aquatic health."
+    "title": "Multi-Vendor Marketplace",
+    "description": "Imagine a shopping paradise where you can find everything you need from many different sellers, just like Amazon! This Multi-Vendor Marketplace provides exactly that. Multiple sellers can easily sign up, list their products, and manage their own orders from one central platform. Meanwhile, customers get to browse an incredible variety of items from different vendors, making their shopping experience diverse and exciting. It's a powerful e-commerce solution that brings many businesses and countless products together, offering a vast selection and convenience to online shoppers."
   },
   {
     "id": 24,
-    "title": "Chronic Kidney Disease (CKD) Prediction Using Machine Learning",
-    "description": "Chronic Kidney Disease is a long-term condition where the kidneys do not function properly. Early diagnosis and intervention can prevent the progression to kidney failure. This project uses supervised machine learning models to predict the likelihood of CKD based on various medical parameters. A user-friendly web app is also developed using Streamlit for real-time predictions by healthcare professionals."
+    "title": "Donation and Fundraising Platform",
+    "description": "Have a cause close to your heart or need to raise funds for a special project? This Donation and Fundraising Platform makes it incredibly easy to gather support. People can create their own campaigns, share their stories, and start raising funds for various initiatives. Donors can contribute securely and even track the progress of the campaign, seeing how close the goal is. Plus, there's transparency, allowing everyone to see exactly where the funds are being used. It’s a compassionate and effective way to connect those in need with generous supporters, making a real difference one donation at a time."
   },
   {
     "id": 25,
-    "title": "Voice-to-Text Summarization Tool for Visually Impaired Students",
-    "description": "This application provides a voice recording and summarization tool tailored for visually impaired students. Using speech-to-text conversion followed by extractive summarization techniques (e.g., TextRank), it creates concise summaries of lectures or notes. The app also supports audio playback of the summary, making content more accessible and improving learning outcomes for students with disabilities."
+    "title": "Tutor Booking App",
+    "description": "Struggling with a subject or need a bit of extra help? This Tutor Booking App connects students with qualified tutors for both online and offline learning sessions. Students can easily search for tutors based on subjects, availability, and reviews, then book a session that fits their schedule. For tutors, it’s a fantastic way to manage their business: they can set their availability, track their session history, and connect with students eager to learn. It’s a streamlined platform that makes finding and booking educational support simple and convenient for everyone involved."
   },
   {
     "id": 26,
-    "title": "Cloud-based Real-Time Anomaly Detection",
-    "description": "Apply deep learning or soft computing to detect anomalies in streaming data (e.g., network logs, manufacturing sensors)."
+    "title": "Podcast Hosting Platform",
+    "description": "Got a story to tell or expertise to share through audio? This Podcast Hosting Platform is your stage! Podcasters can easily upload and manage all their episodes, making them available to a global audience. For listeners, it's a treasure trove of audio content: they can browse, play, and follow their favorite creators and shows. Plus, for the podcasters, the platform provides insightful analytics, showing valuable listener data to help them grow their audience. It's a comprehensive solution for both creating and enjoying podcasts, fostering a vibrant community of audio storytellers and eager listeners."
   },
   {
     "id": 27,
-    "title": "AI-Enabled IoT-Based Smart Health Monitoring System",
-    "description": "Real-time health data collection (pulse, temp, SpO2) with cloud storage and anomaly detection using machine learning."
+    "title": "Travel Itinerary Planner",
+    "description": "Planning a trip can be exciting but also a bit overwhelming. This Travel Itinerary Planner makes it a breeze! Users can plan their trips day by day, mapping out their adventures effortlessly. The app is smart, suggesting hotels, popular attractions, and efficient routes to help you make the most of your journey. The best part? You can easily share your meticulously planned itineraries with friends and family, making group travel a joy. It’s your personal travel assistant, ensuring every trip is well-organized, stress-free, and full of amazing memories."
   },
   {
     "id": 28,
-    "title": "SkillLens: AI-Powered Keyword Recommendation System for LinkedIn Profiles",
-    "description": "In today’s competitive job market, having an optimized LinkedIn profile can significantly impact professional visibility and opportunities. However, many users struggle to identify the right set of keywords—skills, technologies, and industry-specific terms—that align with their career goals and make their profiles more discoverable by recruiters and employers. This project aims to automatically recommend personalized keywords for a LinkedIn profile using web scraping and machine learning. It analyzes real-world job descriptions and trending profiles in a particular domain to extract high-impact keywords tailored to a user's experience and career aspirations."
+    "title": "Movie Ticket Booking App",
+    "description": "Ready for a night at the movies? This Movie Ticket Booking App makes getting your tickets super easy! You can browse through all the latest films, pick your preferred theater, choose the perfect showtime, and even select your exact seats right from your phone. For cinema administrators, it's a powerful system to manage all their schedules and handle payments smoothly. No more waiting in long lines at the box office – just a quick, convenient way to secure your spot and enjoy the big screen experience. It’s all about making your movie night hassle-free and enjoyable!"
   },
   {
     "id": 29,
-    "title": "Human Activity Recognition using Smartphone Sensors",
-    "description": "Classify physical activities (e.g., walking, sitting, jogging) using data from mobile accelerometers and gyroscopes."
+    "title": "Online Grocery Store",
+    "description": "Running out of milk or need to restock your pantry? This Online Grocery Store brings the supermarket to your doorstep! Customers can easily browse through a wide selection of groceries online, add all their items to a virtual cart, and then choose a convenient delivery slot. For the vendors, it's a seamless system to manage their business. They can update stock levels in real-time, ensuring customers always see what's available, and track sales to understand demand. It’s all about convenience, bringing fresh produce and daily essentials right to your home with just a few clicks."
   },
   {
     "id": 30,
-    "title": "Job Portal System for Remote Freelancers and Employers",
-    "description": "The Job Portal System is an online platform that connects remote freelancers with employers looking to hire skilled professionals for various short-term or long-term projects. This system aims to simplify the recruitment process for remote jobs by providing a centralized portal where freelancers can showcase their skills, apply for jobs, and manage proposals, while employers can post job listings, review applications, and hire suitable candidates."
+    "title": "Car Service Booking App",
+    "description": "Keeping your car in top shape is important, and this Car Service Booking App makes it incredibly easy! Car owners can quickly find and book maintenance or repair services for their vehicles online. No more calling around or trying to fit into a busy schedule – just pick a time that works for you. For the workshops, it's a fantastic tool to manage their appointments, streamline their workflow, and keep customers updated with the status of their car's service. It ensures your vehicle gets the care it needs efficiently, keeping you safely on the road."
   },
   {
     "id": 31,
-    "title": "EEG Signal-Based Stress Detection System",
-    "description": "Detect stress levels using EEG signals from simple low-cost devices (like NeuroSky or OpenBCI)."
+    "title": "Pet Adoption Platform",
+    "description": "Looking for a furry friend to bring into your home? This Pet Adoption Platform connects loving families with pets in need! Animal shelters can easily list their adorable pets for adoption, complete with cute photos and all the important details about each animal. Users who are ready to open their homes can browse through the listings, apply for adoption, and communicate directly with the shelters. It's a heartwarming platform designed to make the adoption process smoother and more accessible, helping countless animals find their forever homes and bringing joy to new families."
   },
   {
     "id": 32,
-    "title": "Fake News and Deepfake Detection Using AI",
-    "description": "The rise of misinformation and manipulated media on the internet poses a significant threat to democratic processes and public trust. This project proposes a hybrid AI system that detects both fake news articles and deepfake videos using a combination of Natural Language Processing (NLP) and Convolutional Neural Networks (CNN). The NLP module classifies text using a pre-trained BERT model, while the CNN model detects subtle facial distortions and inconsistencies in lip-sync and blinking patterns. The system is trained on verified datasets and deployed as a browser plugin or web interface. The project contributes to content authenticity validation and is especially relevant for media agencies, educators, and digital literacy initiatives."
+    "title": "Online Art Auction Platform",
+    "description": "Discover your next masterpiece or showcase your artistic talent with this Online Art Auction Platform! Artists can easily upload their beautiful artwork for sale, reaching a global audience of potential buyers. Buyers, in turn, can place bids in real-time, feeling the excitement of a live auction from anywhere. The platform includes dedicated artist profiles, allowing you to learn more about the creators, and a secure payment flow to ensure smooth transactions. It's a vibrant digital gallery and marketplace, connecting artists with collectors and making the world of art more accessible to everyone."
   },
   {
     "id": 33,
-    "title": "Predictive Modeling of Hypertension Risk Using Lifestyle and Genetic Data",
-    "description": "This research project builds a multi-modal prediction system combining lifestyle factors (diet, physical activity, stress) and genetic markers to predict hypertension risk. Logistic Regression and Deep Neural Networks are evaluated on the Framingham Heart Study dataset. A case study with urban Indian patient data is used to evaluate model transferability. Results suggest that ML can effectively support public health screening for hypertension, especially in low-resource settings."
+    "title": "Smart Parking System",
+    "description": "Tired of endlessly circling for a parking spot? This Smart Parking System is here to rescue you! Users can easily find available parking spots in real-time, reserve them in advance, and pay for their parking by the hour, all through the app. No more fumbling for change or guessing if there's space! For parking administrators, it provides valuable data and analytics to manage parking areas more efficiently. It’s a clever solution that takes the stress out of parking, saving you time and hassle, and making urban travel a much smoother experience for everyone."
   },
   {
     "id": 34,
-    "title": "Real-Time Face Mask Detection System",
-    "description": "Tech: CNN, OpenCV, TensorFlow/Keras. Objective: Detect whether a person is wearing a face mask in public spaces. Outcome: Deployable for public health monitoring post-pandemic."
+    "title": "Doctor Appointment System",
+    "description": "Booking a doctor's appointment should be simple, and this Doctor Appointment System makes it exactly that! Patients can easily find available slots and book appointments online with their preferred doctors. For medical professionals, it's a fantastic tool to view and manage their schedules, reducing administrative burden. They can also securely share prescriptions and manage patients' medical history, ensuring comprehensive care. It’s a secure and efficient platform designed to streamline healthcare access, making it easier for patients to get the care they need and for doctors to manage their practice effectively."
   },
   {
     "id": 35,
-    "title": "Heart Disease Prediction using Machine Learning",
-    "description": "Tech: Random Forest, Logistic Regression, SVM. Dataset: UCI Heart Disease Dataset. Outcome: A web app predicting heart disease risk based on patient data."
+    "title": "Freelance Job Platform",
+    "description": "Whether you're looking for extra help on a project or wanting to offer your skills to the world, this Freelance Job Platform connects talent with opportunity. Clients can easily post jobs, outlining their needs and budget, attracting a pool of skilled freelancers. Freelancers, in turn, can apply for jobs that match their expertise. The platform handles payments securely, giving both parties peace of mind, and includes ratings to ensure quality. Plus, a built-in chat allows for clear communication between users. It's a dynamic marketplace designed to empower independent professionals and help businesses thrive."
   },
   {
     "id": 36,
-    "title": "Deep Learning-Based Skin Disease Detection and Personalized Skincare Recommendation System",
-    "description": "This project aims to develop a deep learning-based system to detect common skin diseases such as acne, eczema, and fungal infections from skin images using CNN models. Upon detection, the system provides personalized skincare recommendations, including routine suggestions and product guidance. The model is optimized for real-time use and integrates explainable AI techniques to enhance user trust. This tool offers accessible skin health insights and promotes early care."
+    "title": "Recipe Sharing Community",
+    "description": "Love to cook and share delicious creations? This Recipe Sharing Community is your culinary playground! Food lovers can post their favorite recipes, upload mouth-watering photos, and inspire others with their cooking prowess. You can follow other talented home cooks, discover new dishes, and leave comments on recipes you've tried. Plus, there’s a handy feature to save your favorite dishes, so you never lose track of a winning recipe, and even rate them to help others. It's a vibrant hub for food enthusiasts to connect, share, and celebrate the joy of cooking together."
   },
   {
     "id": 37,
-    "title": "Secure File Sharing System on Cloud Using Federated Learning",
-    "description": "This project explores secure and privacy-preserving file sharing on the cloud using Federated Learning. Instead of sending raw data to the cloud, user devices train local models on usage patterns or preferences and share only model updates. This reduces the risk of data leaks and meets compliance standards (like GDPR). The cloud aggregates and updates a global model without accessing personal data."
+    "title": "Language Learning Partner App",
+    "description": "Want to learn a new language but need someone to practice with? This Language Learning Partner App connects you with people around the world who want to learn *your* language while you learn theirs! You can engage in text chat to practice writing, or dive into voice chat to improve your speaking and listening skills. The app also includes handy features like a rating system for partners and scheduling tools to arrange practice sessions. It's a fantastic way to immerse yourself in a new language, make global connections, and learn from native speakers in a fun and interactive way."
   },
   {
     "id": 38,
-    "title": "NIL",
-    "description": "NIL"
+    "title": "Travel Deals Finder",
+    "description": "Dreaming of your next adventure but looking for a bargain? This Travel Deals Finder is your ultimate travel companion! Users can easily search and compare a vast array of travel deals, including flights and hotels, helping them find the best prices. The really cool part is that you can set alerts for price drops or limited-time offers, so you never miss out on a fantastic opportunity. It's designed to take the stress out of finding affordable travel, ensuring you get the most bang for your buck on your next vacation, making those dream trips a reality."
   },
   {
     "id": 39,
-    "title": "Human action recognition",
-    "description": "This application will detect and identify human actions. will be useful in crowd management."
+    "title": "Book Club App",
+    "description": "Calling all bookworms! This Book Club App is the perfect digital space for readers to connect and share their love for literature. You can easily form new book clubs or join existing ones, plan exciting discussions about your latest reads, and post insightful reviews. Plus, members can track their reading progress together, motivating everyone to keep turning pages. It's a vibrant and engaging platform that fosters a sense of community among readers, making the experience of reading even more enriching and enjoyable through shared discovery and discussion."
   },
   {
     "id": 40,
-    "title": "Mind Tussle Online Platform",
-    "description": "A dynamic platform for creating, sharing, and competing in live quizzes across various topics, supporting solo and group challenges. Features include leaderboards, real-time scoring, and custom quiz creation for learning or fun."
+    "title": "Electronics Auction Website",
+    "description": "Looking for a great deal on gadgets or ready to upgrade your tech? This Electronics Auction Website is the place to be! Buyers can bid on a wide range of used electronics, from smartphones to gaming consoles, often at fantastic prices. Sellers can easily list their items, set starting prices, and let the bidding begin. The website includes a clear bidding timer, so you know exactly when an auction ends, and a secure payment and delivery system for smooth transactions. It's an exciting and efficient way to buy and sell pre-loved electronics, connecting tech enthusiasts with great finds."
   },
- {
+  {
     "id": 41,
-    "title": "ML based automatic classification of knee osteoarthritis severity using gait data and radiographic images",
-    "description": "This project aims to develop a machine learning pipeline for the automatic classification of Knee Osteoarthritis (KOA) severity, based on the Kellgren–Lawrence (KL) grading scale (0–4), using radiographic knee images and gait analysis data. The approach integrates deep learning models (e.g., ResNet, EfficientNet) for feature extraction from X-ray images with MLP-based or classical ML models for gait features, followed by multi-modal fusion to improve diagnostic accuracy. The system uses PyTorch for model development, scikit-learn for tabular analysis, and includes explainable AI (Grad-CAM, SHAP) to interpret predictions. The solution targets early detection and accurate severity assessment of KOA, reducing manual diagnostic effort and improving clinical decision-making."
+    "title": "Habit Tracker App",
+    "description": "Want to build good habits and break bad ones? This Habit Tracker App is your personal coach for positive change! Users can easily add the habits they want to cultivate, like daily meditation or drinking more water, and then track their progress every single day. The app helps you visualize your consistency by showing your streaks, motivating you to keep going. Plus, it sends helpful reminders so you never forget, and generates progress charts, giving you a clear picture of how well you're doing. It’s a simple yet powerful tool to help you achieve your goals and build a better you."
   },
   {
     "id": 42,
-    "title": "TriSense: An AI-Powered Assistive Device for the Visually, Hearing, and Speech Impaired",
-    "description": "TriSense is a unified, AI-powered assistive system designed to empower individuals with visual, hearing, and speech impairments. The device integrates computer vision, natural language processing, and speech recognition technologies to perform tasks such as object detection, text-to-speech, speech-to-text, and gesture recognition. Using low-cost IoT hardware and edge-AI models, TriSense aims to improve independence, communication, and safety for differently-abled users in real-world environments."
+    "title": "Music Streaming Website",
+    "description": "Dive into a world of endless music with this Music Streaming Website! Users can play their favorite songs, discover new artists, and create personalized playlists for every mood and occasion. You can also follow your beloved artists to stay updated on their latest releases. For the artists themselves, it's a fantastic platform to upload their music, share it with a global audience, and track valuable listener statistics to understand their fans better. It’s a dynamic and immersive experience for both creators and listeners, celebrating the power of music and bringing everyone closer to the sounds they love."
   },
   {
     "id": 43,
-    "title": "Smart Reading Companion for Early Learners",
-    "description": "This project creates an AI-powered reading assistant that listens to young students read aloud and provides feedback on pronunciation, fluency, and pacing. Using speech recognition and phoneme analysis, the system highlights mispronounced words and encourages corrections. Designed as a friendly mobile or tablet app, it helps primary school children develop literacy skills through engaging, interactive reading practice."
+    "title": "Virtual Classroom App",
+    "description": "Learning from anywhere is made possible with this Virtual Classroom App! Teachers can effortlessly conduct live classes, interacting with students in real-time, or upload recorded lessons for students to watch at their own pace. Students can attend sessions from the comfort of their homes, actively participate by asking questions, and easily submit their assignments online. It creates an engaging and interactive learning environment, bridging the distance between educators and learners. It’s a flexible and powerful tool that brings education right to your fingertips, making knowledge accessible to everyone."
   },
   {
     "id": 44,
-    "title": "Hybrid ML-Blockchain System for Secure Medical IoT",
-    "description": "Combine IoT device data collection, ML analytics, and blockchain for integrity and security in medical monitoring."
+    "title": "Custom T-Shirt Store",
+    "description": "Unleash your creativity and wear your unique style with this Custom T-Shirt Store! Users can design their very own custom T-shirts, adding text, images, and colors to create a truly personalized look. They can even preview their design before ordering to ensure it's exactly what they envisioned. For the store administrators, there's a seamless system to handle printing, manage all incoming orders, and coordinate delivery. It’s a fun and interactive way to express yourself or create personalized gifts, making the process of designing and ordering custom apparel simple and exciting."
   },
-  {
+    {
     "id": 45,
-    "title": "Smart Parking System Using IoT and Mobile App Integration",
-    "description": "Real-time availability tracking of parking slots, reservation, and payment integration."
+    "title": "Focus Timer App",
+    "description": "Distractions everywhere? This Focus Timer App is your secret weapon for getting things done! Based on the popular Pomodoro Technique, it helps users concentrate on tasks for set periods, followed by short breaks. You can easily set your timers, and the app will guide you through your work sessions. It also includes helpful features like progress stats and productivity reports, so you can see how focused you’ve been over time. It’s a simple yet powerful tool designed to boost your concentration, manage your time effectively, and help you achieve your goals with greater efficiency."
   },
   {
     "id": 46,
-    "title": "Mood-Adaptive Interfaces/ MoodTales: AI-Driven Stories for Every Emotion",
-    "description": "This project demonstrates the application of generative AI in creating personalized, mood-based storytelling experiences. Using Mood, the project allows users to select their current mood from a dropdown menu, after which a personalized story is generated based on their emotional state. Once the story is created, the project also generates an audio narration of the story, making the experience more immersive and engaging. Furthermore, the tool generates an image prompt that can be used to visualize the story, providing users with a visual representation of their narrative. This combination of text, audio, and visual content creates a multi-dimensional, personalized storytelling experience."
+    "title": "Community Forum Website",
+    "description": "Have a burning question or a helpful insight to share? This Community Forum Website is a vibrant hub for discussion and knowledge exchange! It's a Q&A-style platform where people can ask questions about almost anything, ranging from tech troubles to cooking tips. Other users can then jump in to post thoughtful answers and contribute to the conversation. The community can even upvote useful replies, ensuring the best information rises to the top. It's a powerful tool for collective learning, problem-solving, and building a supportive online community around shared interests."
   },
   {
     "id": 47,
-    "title": "Real-Time Face Mask Detection System",
-    "description": "Detect if a person is wearing a face mask using a camera feed."
+    "title": "Wedding Planning Platform",
+    "description": "Planning a wedding can be one of the most exciting, yet daunting, tasks! This Wedding Planning Platform is here to make it a dream come true. Couples can effortlessly plan every detail of their big day, from creating detailed guest lists to managing RSVPs. The platform also helps them find and connect with essential vendors, whether they're looking for the perfect photographer, a stunning venue, or delicious catering options. It’s a comprehensive and intuitive tool designed to simplify the entire wedding planning process, allowing couples to enjoy their journey to 'I do' with less stress and more joy."
   },
   {
     "id": 48,
-    "title": "News Article Summarizer using NLP",
-    "description": "The News Article Summarizer is an intelligent application that uses Natural Language Processing (NLP) to automatically generate concise and meaningful summaries from lengthy news articles. The system is designed to help users quickly grasp the key points of news stories without reading the entire content, saving time and improving information consumption."
+    "title": "Handmade Crafts Marketplace",
+    "description": "Do you love unique, handcrafted items, or are you an artist looking to share your creations? This Handmade Crafts Marketplace is the perfect place for both! Artists can easily set up their shops and sell their beautiful handmade products, from jewelry to home decor, reaching a global audience. Users can browse through a stunning array of one-of-a-kind items, buy directly from the creators, leave glowing reviews, and even follow their favorite artisans to stay updated on new creations. It's a vibrant community that celebrates craftsmanship and connects artists with appreciative buyers."
   },
   {
     "id": 49,
-    "title": "Brain-Controlled LED",
-    "description": "Objective: Turn ON/OFF an LED using brain activity. Tools: Arduino, EEG headset (NeuroSky or Muse), HC-05 Bluetooth. Outcome: Use attention or meditation levels to trigger the LED. Scope: Simple signal reading + threshold-based control"
+    "title": "Ride Sharing App",
+    "description": "Need to get across the city quickly and affordably? This Ride Sharing App connects drivers with passengers for convenient urban travel! Drivers who are heading in a certain direction can offer available seats in their cars, while passengers can request rides within the city. The app intelligently matches riders based on their route, making trips efficient. Plus, it has built-in fare splitting, ensuring a fair and transparent cost for everyone. It’s a smart and social way to get around, reducing traffic, saving money, and connecting people on the go."
   },
   {
     "id": 50,
-    "title": "Quantum-Secure Blockchain Framework",
-    "description": "With quantum computers posing a threat to current cryptographic standards, blockchain systems are vulnerable to quantum attacks. This project explores a quantum-secure blockchain by integrating post-quantum cryptographic algorithms such as CRYSTALS-Kyber or Dilithium. A prototype blockchain ledger is created using Python, with cryptographic modules replaced by quantum-resistant versions. The project includes a comparative analysis of transaction speed, encryption time, and resistance to quantum attacks. This is a forward-looking system that prepares the blockchain ecosystem for a post-quantum world."
+    "title": "Local Service Finder",
+    "description": "When something breaks or you need a helping hand, finding the right professional can be tricky. This Local Service Finder makes it simple! It's a platform where users can easily find reliable local experts, whether you need a plumber for a leaky faucet, an electrician for wiring issues, or other skilled technicians. You can compare ratings from other users and even get price estimates before booking, ensuring you get the best value and service. It takes the guesswork out of hiring local services, connecting you with trusted professionals quickly and efficiently."
   },
   {
     "id": 51,
-    "title": "Diabetes Progression Prediction Using Regression and Ensemble Models",
-    "description": "This project uses machine learning regression techniques to predict diabetes progression based on patient data such as BMI, blood pressure, age, and blood serum levels. Using the popular Diabetes Dataset from Kaggle (originally from the Scikit-learn library), the study compares Linear Regression, Random Forest, and Gradient Boosting models. A case study is conducted to evaluate model performance in forecasting long-term diabetes risks. The project provides actionable insights for endocrinologists and health planners in preventive care and personalized treatment planning."
+    "title": "Travel Journal and Photo Sharing",
+    "description": "Keep your travel memories alive and share your adventures with the world using this Travel Journal and Photo Sharing app! Travelers can effortlessly post their stunning photos and captivating stories, tagging them by location to create a vivid digital journal of their journeys. Other users can then explore these exciting travelogues, like their favorite posts, leave encouraging comments, and follow fellow travelers to keep up with their latest expeditions. It's a wonderful way to document your explorations, inspire others, and connect with a global community of adventurers."
   },
   {
     "id": 52,
-    "title": "Fake News Detection using Machine Learning",
-    "description": "Tech: NLP, TF-IDF, LSTM. Objective: Detect and classify fake news articles using text classification models. Outcome: A browser plugin or dashboard to flag misinformation."
+    "title": "Used Book Exchange Platform",
+    "description": "Got a stack of books you've read and loved, but no longer need? This Used Book Exchange Platform is a book lover's dream! Users can easily list their used books for others to discover. If you're looking for a new read, you can request exchanges for books you're interested in, or even purchase them directly. The platform includes a chat feature, allowing users to communicate about the books and arrange swaps. It's a fantastic way to give books a second life, save money, and connect with other readers who share your passion for stories."
   },
-  {
+    {
     "id": 53,
-    "title": "COVID-19 Detection using Chest X-Ray Images",
-    "description": "Tech: CNN, Deep Learning, Transfer Learning (VGG16/ResNet). Objective: Detect COVID-19 from chest X-rays. Outcome: Fast screening tool for hospitals."
+    "title": "Meal Kit Subscription App",
+    "description": "Tired of meal planning and grocery shopping? This Meal Kit Subscription App makes cooking delicious dinners a breeze! Users can subscribe to weekly meal kits, receiving perfectly portioned ingredients and easy-to-follow recipes delivered right to their doorstep. For the vendors, there’s a seamless system to manage menus, update ingredient lists, and coordinate deliveries efficiently. It takes the guesswork out of cooking, introduces you to new recipes, and reduces food waste, making healthy and exciting home-cooked meals more accessible and enjoyable for everyone."
   },
   {
     "id": 54,
-    "title": "IoT-Based Smart Farming System",
-    "description": "Design an IoT system with sensors for soil moisture, temperature, and humidity, integrated with ML to optimize irrigation and crop health predictions. An app dashboard gives farmers real-time alerts and recommendations."
+    "title": "Public Transport Ticketing App",
+    "description": "Making your daily commute or a city trip easier, this Public Transport Ticketing App revolutionizes how you travel! Passengers can effortlessly buy tickets online for buses, trains, or other public transport. No more fumbling for cash or waiting in line at ticket machines – just a quick scan of a QR code when boarding. Plus, the app provides real-time bus and train schedules, so you always know when your next ride is coming. It’s designed to make public transit more convenient, efficient, and stress-free for urban commuters and travelers alike."
   },
   {
     "id": 55,
-    "title": "Cloud-Based Crop Disease Prediction System using Deep Learning",
-    "description": "In this project, a cloud-hosted platform is developed for detecting crop diseases from leaf images using convolutional neural networks (CNN). Farmers upload images via a mobile app, which are processed in the cloud. The system classifies diseases and suggests remedies. The cloud infrastructure ensures high availability and model retraining on new data for better accuracy over time."
+    "title": "Volunteer Finder",
+    "description": "Want to make a difference in your community or support a cause you care about? This Volunteer Finder app connects passionate individuals with meaningful opportunities! Nonprofits can easily post their volunteer needs and project details, reaching a wide network of potential helpers. People can browse these opportunities, apply for roles that resonate with them, and track the hours they contribute. The app even allows for issuing certificates of participation, recognizing the valuable efforts of volunteers. It’s a powerful platform for fostering goodwill and collective action, making it easier for everyone to contribute to a better world."
   },
   {
     "id": 56,
-    "title": "NIL",
-    "description": "NIL"
+    "title": "Art Commission Platform",
+    "description": "Have a unique artistic vision you want to bring to life, or are you an artist looking for your next creative project? This Art Commission Platform connects clients with talented artists! Clients can easily request custom art pieces, detailing their ideas and preferences. Artists, in turn, can take on commissions that excite them, showcasing their skills. The platform includes helpful features like payment milestones, ensuring secure transactions as the project progresses, and delivery tracking, so both parties know where the artwork is. It's a seamless way to foster creativity and bring bespoke art into the world."
   },
   {
     "id": 57,
-    "title": "Smart stick",
-    "description": "This is a stick with various sensors to help visually impaired person to move around without getting hurt"
+    "title": "Peer-to-Peer Lending App",
+    "description": "Need a little financial help or want to invest a bit of extra cash? This Peer-to-Peer Lending App creates a secure and transparent space for users to lend and borrow money directly from each other. The app smartly tracks interest rates, manages repayment schedules, and helps formalize loan agreements, giving both lenders and borrowers peace of mind. It bypasses traditional financial institutions, offering a more personal and often more flexible way to handle small loans. It’s a community-driven financial tool, empowering individuals to support each other's monetary needs."
   },
   {
     "id": 58,
-    "title": "Renty Wenty one stop Apartment Rentals",
-    "description": "A comprehensive platform consolidating apartment listings, virtual tours, and direct landlord-tenant communications. Users can filter properties, schedule viewings, and manage rental agreements all in one place."
+    "title": "Online Plant Shop",
+    "description": "Bring the beauty of nature indoors or enhance your garden with this delightful Online Plant Shop! Users can browse through a wide variety of indoor and outdoor plants, complete with photos and care instructions, and order their green companions online. Nursery owners get a convenient system to manage their stock, update product details, and handle shipping to plant lovers. The shop also provides helpful care tips, ensuring every plant thrives in its new home. It’s a seamless way to connect plant enthusiasts with beautiful greenery, making it easy to grow your own urban jungle."
   },
   {
     "id": 59,
-    "title": "TraffixNet: Road Traffic Condition Monitoring Using Deep Learning and Computer Vision",
-    "description": "Traffic congestion, accidents, and inefficient road usage are major challenges in urban environments. Real-time traffic condition monitoring is essential for smart traffic management, emergency response, and urban planning. Traditional sensor-based systems are expensive and hard to maintain. There is a need for a cost-effective and intelligent system that uses existing infrastructure (e.g., CCTV or roadside cameras) and deep learning to monitor road traffic conditions in real time."
+    "title": "Digital Magazine Platform",
+    "description": "Step into the future of reading with this Digital Magazine Platform! Publishers can easily upload new issues of their magazines, making them accessible to a global audience. Readers can subscribe to their favorite publications for regular content or purchase single editions of specific issues that catch their eye. The platform includes a user-friendly reading dashboard for an immersive experience and provides analytics to publishers, helping them understand their readership better. It’s a modern and convenient way to enjoy engaging content, bringing the rich world of magazines right to your screen."
   },
   {
     "id": 60,
-    "title": "Smart Traffic Prediction Using Historical Data",
-    "description": "To develop a system that predicts traffic congestion levels in specific areas using historical data. The aim is to help commuters, planners, and smart city systems manage traffic flow more efficiently."
+    "title": "College Alumni Network",
+    "description": "Reconnect with old friends and expand your professional circle with this College Alumni Network! It's an exclusive online space designed for alumni and current students of a college to connect, share experiences, and support each other. Members can post job opportunities, helping fellow alumni and students find their next career step, share important updates about their lives and careers, and organize events to bring everyone together. It’s a powerful community platform that fosters lifelong connections, mentorship, and professional growth within the college family."
   }
-
 ];
-
-
-
-
-
-
-
-
-
-
-
-

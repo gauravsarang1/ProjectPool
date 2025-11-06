@@ -137,8 +137,8 @@ Feel free to use, modify, and distribute.
 ---
 
 ## 👨‍💻 Author
-**Fraz Haidry**  
-🔗 [GitHub](https://github.com/frazhaidry)  
+**Gaurav Sarang**  
+🔗 [GitHub](https://github.com/gauravsarang1)  
 
 ---
 
