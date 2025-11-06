@@ -3,7 +3,7 @@ import axios from "axios";
 export const API_BASE_URL =
   window.location.hostname === 'localhost'
     ? 'http://localhost:3000/api'
-    : 'https://projectpool.onrender.com/api';
+    : 'https://projectpool-1.onrender.com/api';
 
 
 export const api = axios.create({
